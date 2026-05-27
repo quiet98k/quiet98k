@@ -17,9 +17,9 @@ dependably in real-world environments.
 
 - 📫 How to reach me **oscar20040522@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[https://quiet98k.com](https://quiet98k.com)**
+- 👨‍💻 All of my projects are available at my personal website **[here](https://quiet98k.com)**
 
-- 📄 Know about my experiences on my resume **[https://quiet98k.com/resume.pdf](here)**
+- 📄 Know about my experiences on my resume **[here](https://quiet98k.com/resume.pdf)**
 
 
 <h3 align="left">Languages and Tools:</h3>
