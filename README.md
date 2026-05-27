@@ -19,7 +19,7 @@ dependably in real-world environments.
 
 - 👨‍💻 All of my projects are available at **[https://quiet98k.com](https://quiet98k.com)**
 
-- 📄 Know about my experiences **[https://rxresu.me/oscar20040522/yiming-feng-resume](https://rxresu.me/oscar20040522/yiming-feng-resume)**
+- 📄 Know about my experiences on my resume **[https://quiet98k.com/resume.pdf](here)**
 
 
 <h3 align="left">Languages and Tools:</h3>
