@@ -15,7 +15,7 @@ dependably in real-world environments.
 
 - 🎯 I'm actively seeking roles in **AI/ML Engineering**, **Deep Learning**, or **Applied ML**
 
-- 📫 How to reach me **oscar20040522@gmail.com**
+- 📫 How to reach me **yimingoscarfeng@gmail.com**
 
 - 👨‍💻 All of my projects are available at my personal website **[here](https://quiet98k.com)**
 
