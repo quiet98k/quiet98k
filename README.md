@@ -1,17 +1,6 @@
 # Hi 👋, I'm Yiming Feng
 
-I’m an **AI/ML Engineer and Duke MSCS student** focused on deep learning, model
-development, and building reliable ML systems. I work primarily with **PyTorch** to design
-and train neural networks (CNNs, MLPs), and I build end-to-end, production-ready ML
-pipelines aimed at reliability and performance.
-
-Alongside my ML work, I have supporting experience in **full-stack development** and system
-design, which helps me integrate models cleanly into real applications. I also bring strong
-engineering fundamentals in **Docker, Kubernetes, Linux, and backend systems**, enabling
-scalable and maintainable deployment of machine learning services.
-
-My goal is to create **robust, maintainable, and high-performance AI systems** that work
-dependably in real-world environments.
+I'm an AI/ML Engineer and Duke MSCS student specializing in LLMs, Agentic AI, and machine learning systems. I build end-to-end AI solutions, including RAG pipelines, multi-agent workflows, and deep learning models, with a focus on scalable, reliable, and production-ready applications.
 
 - 🎯 I'm actively seeking roles in **AI/ML Engineering**, **Deep Learning**, or **Applied ML**
 
